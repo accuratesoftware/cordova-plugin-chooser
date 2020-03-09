@@ -24,8 +24,8 @@
 
 	<platform name="ios">
 		<preference name="UseLegacySwiftLanguageVersion" value="3" />
- 		<preference name="swift-version" value="3.0" />
-		<dependency id="cordova-plugin-add-swift-support" version="3.0" />
+ 		<preference name="swift-version" value="3.0.0" />
+		<dependency id="cordova-plugin-add-swift-support" version="3.0.0" />
 		
 		<source-file src="src/ios/Chooser.swift" />
 
