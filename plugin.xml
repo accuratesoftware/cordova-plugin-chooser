@@ -23,7 +23,7 @@
 	</platform>
 
 	<platform name="ios">
-		<preference name="UseLegacySwiftLanguageVersion" value="3" />
+		<preference name="UseLegacySwiftLanguageVersion" value="true" />
  		<preference name="swift-version" value="3.0" />
 		<dependency id="cordova-plugin-add-swift-support" version="2.0.2" />
 		
