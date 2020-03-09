@@ -32,6 +32,8 @@
 		<config-file target="config.xml" parent="/*">
 			<feature name="Chooser">
 				<param name="ios-package" value="Chooser" />
+				<variable name="USELEGACYSWIFTLANGUAGEVERSION" value="3"/>
+				<variable name="SWIFT-VERSION" value="3.0"/>
 			</feature>
 		</config-file>
 	</platform>
