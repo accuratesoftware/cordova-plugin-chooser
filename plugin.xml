@@ -26,7 +26,7 @@
 		<source-file src="src/ios/Chooser.swift" />
 				<preference name="UseLegacySwiftLanguageVersion" value="true" />
 
-		<dependency id="cordova-plugin-add-swift-support" version="2.0.2" />
+		<dependency id="cordova-plugin-add-swift-support" version="3.0" />
 
 		<config-file target="config.xml" parent="/*">
 			<feature name="Chooser">
